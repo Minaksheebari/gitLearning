@@ -1,0 +1,13 @@
+Name Department Salary
+Raj	Sales	90000
+Anik	Tech	80000
+Sanjoy	Digi M	90000
+Neeraj	Market	45000
+Vaibhav	Sales	30000
+Rani	IT	60000
+Sanjoy	Tech	36000
+Rekha	Digi	120000
+Dilip	Revenue	68000
+Jayant	DIgi	45000
+sumit	Sales	90000
+Sam	Digi	12000
